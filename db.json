@@ -6,6 +6,20 @@
             "skills": "React js, Angular",
             "hcm": "alex",
             "gender": "Male"
+        },
+        {
+            "name": "John1",
+            "id": "123456",
+            "skills": "React js, Angular",
+            "hcm": "alex",
+            "gender": "Male"
+        },
+        {
+            "name": "John2",
+            "id": "123456",
+            "skills": "React js, Angular",
+            "hcm": "alex",
+            "gender": "Male"
         }
     ]
 }
