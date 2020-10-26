@@ -2,15 +2,15 @@
     "data": [
     {
         "name": "John",
-        "id": "123456",
+        "id": "100001",
         "skills": "React js, Angular",
         "project": "Cognizant Internal",
         "hcm": "alex",
         "gender": "Male"
     },
     {
-        "name": "John",
-        "id": "123456",
+        "name": "John1",
+        "id": "100002",
         "skills": "React js, Angular",
         "project": "Cognizant Internal",
         "hcm": "alex",
