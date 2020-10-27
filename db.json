@@ -15,7 +15,7 @@
         "project": "Cognizant Internal",
         "hcm": "alex",
         "gender": "Female"
-    }
+    },
     {
         "name": "Frederic",
         "id": "100003",
@@ -31,7 +31,8 @@
         "project": "Cognizant Internal",
         "hcm": "alex",
         "gender": "Female"
-    }{
+    },
+    {
         "name": "Divins",
         "id": "100005",
         "skills": "React js, Angular",
@@ -46,7 +47,8 @@
         "project": "Cognizant Internal",
         "hcm": "alex",
         "gender": "Female"
-    }{
+    },
+    {
         "name": "Elwin",
         "id": "100007",
         "skills": "React js, Angular",
@@ -61,7 +63,8 @@
         "project": "Cognizant Internal",
         "hcm": "alex",
         "gender": "Female"
-    }{
+    },
+    {
         "name": "Anjal",
         "id": "100009",
         "skills": "React js, Angular",
