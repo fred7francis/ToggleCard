@@ -9,8 +9,69 @@
         "gender": "Male"
     },
     {
-        "name": "John1",
+        "name": "Mary",
         "id": "100002",
+        "skills": "React js, Angular",
+        "project": "Cognizant Internal",
+        "hcm": "alex",
+        "gender": "Female"
+    }
+    {
+        "name": "Frederic",
+        "id": "100003",
+        "skills": "React js, Angular",
+        "project": "Cognizant Internal",
+        "hcm": "alex",
+        "gender": "Male"
+    },
+    {
+        "name": "Affnan",
+        "id": "100004",
+        "skills": "React js, Angular",
+        "project": "Cognizant Internal",
+        "hcm": "alex",
+        "gender": "Female"
+    }{
+        "name": "Divins",
+        "id": "100005",
+        "skills": "React js, Angular",
+        "project": "Cognizant Internal",
+        "hcm": "alex",
+        "gender": "Male"
+    },
+    {
+        "name": "Garima",
+        "id": "100006",
+        "skills": "React js, Angular",
+        "project": "Cognizant Internal",
+        "hcm": "alex",
+        "gender": "Female"
+    }{
+        "name": "Elwin",
+        "id": "100007",
+        "skills": "React js, Angular",
+        "project": "Cognizant Internal",
+        "hcm": "alex",
+        "gender": "Male"
+    },
+    {
+        "name": "Akhila",
+        "id": "100008",
+        "skills": "React js, Angular",
+        "project": "Cognizant Internal",
+        "hcm": "alex",
+        "gender": "Female"
+    }{
+        "name": "Anjal",
+        "id": "100009",
+        "skills": "React js, Angular",
+        "project": "Cognizant Internal",
+        "hcm": "alex",
+        "gender": "Male"
+    },
+    {
+        "name": "Aleena",
+        "id": "100010",
         "skills": "React js, Angular",
         "project": "Cognizant Internal",
         "hcm": "alex",
